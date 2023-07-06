@@ -1,0 +1,15 @@
+body{
+    background-image: url(../assets/trabajador.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+canvas{
+    background: rgba(255,255,255,0.92);
+}
+
+h4{
+    margin-top: 1em;
+}

@@ -1,0 +1,33 @@
+body{
+    background-image: url(../assets/trabajador.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+.card{
+    background: rgba(255,255,255,0.64);
+}
+
+.card-header{
+    background: rgba(0,0,0,0.13);
+    font-weight: 800;
+}
+
+.card-body{
+    background: rgba(0,0,0,0.13);
+    color: white;
+}
+
+tbody,thead,form{
+    background: rgba(255,255,255,0.64);
+}
+
+.form-control{
+    background: rgba(0,0,0,0.13);
+}
+
+canvas{
+    background: #ffffff;
+}
